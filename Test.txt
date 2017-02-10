@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 
 This is the first line code
 
 justin added things here
+=======
+This is the first line code
+
+This is the Edward You changes
+
+
+justin changes made here
+>>>>>>> justinbranch
